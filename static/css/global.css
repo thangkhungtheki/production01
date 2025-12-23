@@ -1,0 +1,28 @@
+.nuxt-link-active {
+  color: red;
+  
+}
+.nuxt-link-exact-active {
+  color: green;
+  
+}
+body{
+  zoom: 86%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+  
+.modal-backdrop {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  
+  /* Mẹo: Set kích thước cực lớn để bù cho việc body bị zoom nhỏ */
+  width: 150vw !important;  /* Thay vì 100%, ta để 150% chiều ngang màn hình */
+  height: 150vh !important; /* Thay vì 100%, ta để 150% chiều dọc màn hình */
+  
+  z-index: 1040 !important;
+  background-color: #000 !important;
+  opacity: 0.5 !important;
+}

@@ -1,0 +1,53 @@
+{
+  "Barchart": {
+    "description": "Auto imported from components/Barchart.vue"
+  },
+  "CountBar": {
+    "description": "Auto imported from components/CountBar.vue"
+  },
+  "Doughnutchart": {
+    "description": "Auto imported from components/Doughnutchart.vue"
+  },
+  "LoadingBar": {
+    "description": "Auto imported from components/LoadingBar.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "TopNavBar": {
+    "description": "Auto imported from components/TopNavBar.vue"
+  },
+  "AlertDanger": {
+    "description": "Auto imported from components/alert/danger.vue"
+  },
+  "ModalHopdonginput": {
+    "description": "Auto imported from components/modal/hopdonginput.vue"
+  },
+  "ModalInput": {
+    "description": "Auto imported from components/modal/input.vue"
+  },
+  "ModalInput1": {
+    "description": "Auto imported from components/modal/input1.vue"
+  },
+  "ModalCreateType": {
+    "description": "Auto imported from components/modal/ModalCreateType.vue"
+  },
+  "ModalDisposeAsset": {
+    "description": "Auto imported from components/modal/ModalDisposeAsset.vue"
+  },
+  "ModalDisposeBatch": {
+    "description": "Auto imported from components/modal/ModalDisposeBatch.vue"
+  },
+  "ModalEditAsset": {
+    "description": "Auto imported from components/modal/ModalEditAsset.vue"
+  },
+  "ModalImportAsset": {
+    "description": "Auto imported from components/modal/ModalImportAsset.vue"
+  },
+  "ModalTransferAsset": {
+    "description": "Auto imported from components/modal/ModalTransferAsset.vue"
+  },
+  "TableUser": {
+    "description": "Auto imported from components/table/table.user.vue"
+  }
+}
