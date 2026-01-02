@@ -2,139 +2,169 @@
   {
     "name": "baove",
     "path": "/baove",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\baove\\\\index.vue",
-    "chunkName": "pages/baove/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\baove\\\\index.vue",
+    "chunkName": "pages/baove/index",
+    "_name": "_4c219d6c"
   },
   {
     "name": "bep",
     "path": "/bep",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\bep\\\\index.vue",
-    "chunkName": "pages/bep/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\index.vue",
+    "chunkName": "pages/bep/index",
+    "_name": "_a55ffb08"
   },
   {
     "name": "fandb",
     "path": "/fandb",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\fandb\\\\index.vue",
-    "chunkName": "pages/fandb/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\index.vue",
+    "chunkName": "pages/fandb/index",
+    "_name": "_bbe50c10"
   },
   {
     "name": "home",
     "path": "/home",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\home\\\\index.vue",
-    "chunkName": "pages/home/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_56e1f368"
   },
   {
     "name": "house",
     "path": "/house",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\house\\\\index.vue",
-    "chunkName": "pages/house/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\index.vue",
+    "chunkName": "pages/house/index",
+    "_name": "_e5f84b6e"
   },
   {
     "name": "ketoan",
     "path": "/ketoan",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\ketoan\\\\index.vue",
-    "chunkName": "pages/ketoan/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\index.vue",
+    "chunkName": "pages/ketoan/index",
+    "_name": "_d5881a6e"
   },
   {
     "name": "lichtiec",
     "path": "/lichtiec",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\lichtiec\\\\index.vue",
-    "chunkName": "pages/lichtiec/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\lichtiec\\\\index.vue",
+    "chunkName": "pages/lichtiec/index",
+    "_name": "_75760976"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\login\\\\index.vue",
-    "chunkName": "pages/login/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_a56a4b40"
   },
   {
     "name": "marketing",
     "path": "/marketing",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\marketing\\\\index.vue",
-    "chunkName": "pages/marketing/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\marketing\\\\index.vue",
+    "chunkName": "pages/marketing/index",
+    "_name": "_5b1a8003"
   },
   {
     "name": "nhansu",
     "path": "/nhansu",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\nhansu\\\\index.vue",
-    "chunkName": "pages/nhansu/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\nhansu\\\\index.vue",
+    "chunkName": "pages/nhansu/index",
+    "_name": "_cc4b16bc"
   },
   {
     "name": "sales",
     "path": "/sales",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\sales\\\\index.vue",
-    "chunkName": "pages/sales/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\sales\\\\index.vue",
+    "chunkName": "pages/sales/index",
+    "_name": "_77eda646"
   },
   {
     "name": "trangtri",
     "path": "/trangtri",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\trangtri\\\\index.vue",
-    "chunkName": "pages/trangtri/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\trangtri\\\\index.vue",
+    "chunkName": "pages/trangtri/index",
+    "_name": "_399409c8"
   },
   {
     "name": "user",
     "path": "/user",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\user\\\\index.vue",
-    "chunkName": "pages/user/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_47d07840"
   },
   {
     "name": "xindex",
     "path": "/xindex",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\xindex.vue",
-    "chunkName": "pages/xindex"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\xindex.vue",
+    "chunkName": "pages/xindex",
+    "_name": "_16e802b1"
   },
   {
     "name": "a4form-testa4",
     "path": "/a4form/testa4",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\a4form\\\\testa4.vue",
-    "chunkName": "pages/a4form/testa4"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\a4form\\\\testa4.vue",
+    "chunkName": "pages/a4form/testa4",
+    "_name": "_00acbf13"
   },
   {
     "name": "ketoan-baocao",
     "path": "/ketoan/baocao",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\ketoan\\\\baocao\\\\index.vue",
-    "chunkName": "pages/ketoan/baocao/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\baocao\\\\index.vue",
+    "chunkName": "pages/ketoan/baocao/index",
+    "_name": "_dd736830"
   },
   {
     "name": "ketoan-danhsachtaisan",
     "path": "/ketoan/danhsachtaisan",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\ketoan\\\\danhsachtaisan\\\\index.vue",
-    "chunkName": "pages/ketoan/danhsachtaisan/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\danhsachtaisan\\\\index.vue",
+    "chunkName": "pages/ketoan/danhsachtaisan/index",
+    "_name": "_9348c2ca"
   },
   {
     "name": "ketoan-dashboard",
     "path": "/ketoan/dashboard",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\ketoan\\\\dashboard.vue",
-    "chunkName": "pages/ketoan/dashboard"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\dashboard.vue",
+    "chunkName": "pages/ketoan/dashboard",
+    "_name": "_a5f887ea"
   },
   {
     "name": "ketoan-hopdong",
     "path": "/ketoan/hopdong",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\ketoan\\\\hopdong\\\\index.vue",
-    "chunkName": "pages/ketoan/hopdong/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\hopdong\\\\index.vue",
+    "chunkName": "pages/ketoan/hopdong/index",
+    "_name": "_0840a3fe"
   },
   {
     "name": "ketoan-kiemke",
     "path": "/ketoan/kiemke",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\ketoan\\\\kiemke\\\\index.vue",
-    "chunkName": "pages/ketoan/kiemke/index"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\kiemke\\\\index.vue",
+    "chunkName": "pages/ketoan/kiemke/index",
+    "_name": "_6fd8e42e"
+  },
+  {
+    "name": "ketoan-report",
+    "path": "/ketoan/report",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\report\\\\index.vue",
+    "chunkName": "pages/ketoan/report/index",
+    "_name": "_0f982a95"
   },
   {
     "name": "login-checklogin",
     "path": "/login/checklogin",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\login\\\\checklogin.vue",
-    "chunkName": "pages/login/checklogin"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\login\\\\checklogin.vue",
+    "chunkName": "pages/login/checklogin",
+    "_name": "_fa1a497a"
   },
   {
     "name": "template-table",
     "path": "/template/table",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\template\\\\table.vue",
-    "chunkName": "pages/template/table"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\template\\\\table.vue",
+    "chunkName": "pages/template/table",
+    "_name": "_2ed52766"
   },
   {
     "name": "usr-setting",
     "path": "/usr/setting",
-    "component": "D:\\\\NODEJS\\\\Nuxt\\\\DP1-NEW\\\\frondend01\\\\pages\\\\usr\\\\setting.vue",
-    "chunkName": "pages/usr/setting"
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\usr\\\\setting.vue",
+    "chunkName": "pages/usr/setting",
+    "_name": "_26ffd25a"
   }
 ]
