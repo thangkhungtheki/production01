@@ -20,6 +20,18 @@
   "AlertDanger": {
     "description": "Auto imported from components/alert/danger.vue"
   },
+  "AssetsImportAssetModal": {
+    "description": "Auto imported from components/assets/ImportAssetModal.vue"
+  },
+  "AssetsRequestModal": {
+    "description": "Auto imported from components/assets/RequestModal.vue"
+  },
+  "AssetsStocktakeSession": {
+    "description": "Auto imported from components/assets/StocktakeSession.vue"
+  },
+  "DepartmentAssets": {
+    "description": "Auto imported from components/department/DepartmentAssets.vue"
+  },
   "ModalHopdonginput": {
     "description": "Auto imported from components/modal/hopdonginput.vue"
   },

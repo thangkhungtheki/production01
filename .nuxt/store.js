@@ -19,6 +19,7 @@ let store = {};
   // Enforce store modules
   store.modules = store.modules || {}
 
+  resolveStoreModules(require('..\\store\\requests.js'), 'requests.js')
   resolveStoreModules(require('..\\store\\cookies\\actions.js'), 'cookies/actions.js')
   resolveStoreModules(require('..\\store\\cookies\\mutations.js'), 'cookies/mutations.js')
   resolveStoreModules(require('..\\store\\cookies\\state.js'), 'cookies/state.js')
@@ -35,6 +36,7 @@ let store = {};
     // Whenever any Vuex module is updated...
     module.hot.accept([
       '..\\store\\index.js',
+      '..\\store\\requests.js',
       '..\\store\\cookies\\actions.js',
       '..\\store\\cookies\\mutations.js',
       '..\\store\\cookies\\state.js',

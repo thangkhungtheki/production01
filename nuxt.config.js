@@ -47,7 +47,8 @@ export default {
     // { src: '@/plugins/initAuth', mode: 'client' } 
     '@/plugins/eventbus.js',
     { src: '@/plugins/vue-notification.js', mode: 'client' } ,
-    '~/plugins/axios.js'
+    '~/plugins/axios.js',      // <--- Cái này chạy trước, tạo ra $api
+    '~/plugins/repository.js'  // <--- Cái này chạy sau, dùng $api để tạo $repo
    
   ],
 
