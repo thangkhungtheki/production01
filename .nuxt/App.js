@@ -14,6 +14,7 @@ import '..\\static\\css\\global.css'
 
 import '..\\assets\\css\\main.css'
 
+import _77068119 from '..\\layouts\\admin.vue'
 import _d329c8e8 from '..\\layouts\\areaAdmin.vue'
 import _77134489 from '..\\layouts\\baove.vue'
 import _1a3ae4d7 from '..\\layouts\\bep.vue'
@@ -26,7 +27,7 @@ import _ffa8c102 from '..\\layouts\\nhansu.vue'
 import _7802c6d6 from '..\\layouts\\sales.vue'
 import _b7fca0f6 from '..\\layouts\\trangtri.vue'
 
-const layouts = { "_areaAdmin": sanitizeComponent(_d329c8e8),"_baove": sanitizeComponent(_77134489),"_bep": sanitizeComponent(_1a3ae4d7),"_default": sanitizeComponent(_6f6c098b),"_fandb": sanitizeComponent(_774b9c9b),"_house": sanitizeComponent(_776e44ea),"_ketoan": sanitizeComponent(_7aeb73b8),"_marketing": sanitizeComponent(_667052f0),"_nhansu": sanitizeComponent(_ffa8c102),"_sales": sanitizeComponent(_7802c6d6),"_trangtri": sanitizeComponent(_b7fca0f6) }
+const layouts = { "_admin": sanitizeComponent(_77068119),"_areaAdmin": sanitizeComponent(_d329c8e8),"_baove": sanitizeComponent(_77134489),"_bep": sanitizeComponent(_1a3ae4d7),"_default": sanitizeComponent(_6f6c098b),"_fandb": sanitizeComponent(_774b9c9b),"_house": sanitizeComponent(_776e44ea),"_ketoan": sanitizeComponent(_7aeb73b8),"_marketing": sanitizeComponent(_667052f0),"_nhansu": sanitizeComponent(_ffa8c102),"_sales": sanitizeComponent(_7802c6d6),"_trangtri": sanitizeComponent(_b7fca0f6) }
 
 export default {
   render (h, props) {
