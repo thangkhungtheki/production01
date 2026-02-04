@@ -3,175 +3,150 @@
     "name": "baove",
     "path": "/baove",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\baove\\\\index.vue",
-    "chunkName": "pages/baove/index",
-    "_name": "_4c219d6c"
+    "chunkName": "pages/baove/index"
   },
   {
     "name": "bep",
     "path": "/bep",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\index.vue",
-    "chunkName": "pages/bep/index",
-    "_name": "_a55ffb08"
+    "chunkName": "pages/bep/index"
   },
   {
     "name": "fandb",
     "path": "/fandb",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\index.vue",
-    "chunkName": "pages/fandb/index",
-    "_name": "_bbe50c10"
+    "chunkName": "pages/fandb/index"
   },
   {
     "name": "home",
     "path": "/home",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\home\\\\index.vue",
-    "chunkName": "pages/home/index",
-    "_name": "_56e1f368"
+    "chunkName": "pages/home/index"
   },
   {
     "name": "house",
     "path": "/house",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\index.vue",
-    "chunkName": "pages/house/index",
-    "_name": "_e5f84b6e"
+    "chunkName": "pages/house/index"
   },
   {
     "name": "ketoan",
     "path": "/ketoan",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\index.vue",
-    "chunkName": "pages/ketoan/index",
-    "_name": "_d5881a6e"
+    "chunkName": "pages/ketoan/index"
   },
   {
     "name": "lichtiec",
     "path": "/lichtiec",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\lichtiec\\\\index.vue",
-    "chunkName": "pages/lichtiec/index",
-    "_name": "_75760976"
+    "chunkName": "pages/lichtiec/index"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\login\\\\index.vue",
-    "chunkName": "pages/login/index",
-    "_name": "_a56a4b40"
+    "chunkName": "pages/login/index"
   },
   {
     "name": "marketing",
     "path": "/marketing",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\marketing\\\\index.vue",
-    "chunkName": "pages/marketing/index",
-    "_name": "_5b1a8003"
+    "chunkName": "pages/marketing/index"
   },
   {
     "name": "nhansu",
     "path": "/nhansu",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\nhansu\\\\index.vue",
-    "chunkName": "pages/nhansu/index",
-    "_name": "_cc4b16bc"
+    "chunkName": "pages/nhansu/index"
   },
   {
     "name": "sales",
     "path": "/sales",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\sales\\\\index.vue",
-    "chunkName": "pages/sales/index",
-    "_name": "_77eda646"
+    "chunkName": "pages/sales/index"
   },
   {
     "name": "trangtri",
     "path": "/trangtri",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\trangtri\\\\index.vue",
-    "chunkName": "pages/trangtri/index",
-    "_name": "_399409c8"
+    "chunkName": "pages/trangtri/index"
   },
   {
     "name": "user",
     "path": "/user",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\user\\\\index.vue",
-    "chunkName": "pages/user/index",
-    "_name": "_47d07840"
+    "chunkName": "pages/user/index"
   },
   {
     "name": "xindex",
     "path": "/xindex",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\xindex.vue",
-    "chunkName": "pages/xindex",
-    "_name": "_16e802b1"
+    "chunkName": "pages/xindex"
   },
   {
     "name": "a4form-testa4",
     "path": "/a4form/testa4",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\a4form\\\\testa4.vue",
-    "chunkName": "pages/a4form/testa4",
-    "_name": "_00acbf13"
+    "chunkName": "pages/a4form/testa4"
   },
   {
     "name": "admin-setting",
     "path": "/admin/setting",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\admin\\\\setting.vue",
-    "chunkName": "pages/admin/setting",
-    "_name": "_6520c590"
+    "chunkName": "pages/admin/setting"
   },
   {
     "name": "ketoan-baocao",
     "path": "/ketoan/baocao",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\baocao\\\\index.vue",
-    "chunkName": "pages/ketoan/baocao/index",
-    "_name": "_dd736830"
+    "chunkName": "pages/ketoan/baocao/index"
   },
   {
     "name": "ketoan-danhsachtaisan",
     "path": "/ketoan/danhsachtaisan",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\danhsachtaisan\\\\index.vue",
-    "chunkName": "pages/ketoan/danhsachtaisan/index",
-    "_name": "_9348c2ca"
+    "chunkName": "pages/ketoan/danhsachtaisan/index"
   },
   {
     "name": "ketoan-dashboard",
     "path": "/ketoan/dashboard",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\dashboard.vue",
-    "chunkName": "pages/ketoan/dashboard",
-    "_name": "_a5f887ea"
+    "chunkName": "pages/ketoan/dashboard"
   },
   {
     "name": "ketoan-hopdong",
     "path": "/ketoan/hopdong",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\hopdong\\\\index.vue",
-    "chunkName": "pages/ketoan/hopdong/index",
-    "_name": "_0840a3fe"
+    "chunkName": "pages/ketoan/hopdong/index"
   },
   {
     "name": "ketoan-kiemke",
     "path": "/ketoan/kiemke",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\kiemke\\\\index.vue",
-    "chunkName": "pages/ketoan/kiemke/index",
-    "_name": "_6fd8e42e"
+    "chunkName": "pages/ketoan/kiemke/index"
   },
   {
     "name": "ketoan-report",
     "path": "/ketoan/report",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\report\\\\index.vue",
-    "chunkName": "pages/ketoan/report/index",
-    "_name": "_0f982a95"
+    "chunkName": "pages/ketoan/report/index"
   },
   {
     "name": "login-checklogin",
     "path": "/login/checklogin",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\login\\\\checklogin.vue",
-    "chunkName": "pages/login/checklogin",
-    "_name": "_fa1a497a"
+    "chunkName": "pages/login/checklogin"
   },
   {
     "name": "template-table",
     "path": "/template/table",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\template\\\\table.vue",
-    "chunkName": "pages/template/table",
-    "_name": "_2ed52766"
+    "chunkName": "pages/template/table"
   },
   {
     "name": "usr-setting",
     "path": "/usr/setting",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\usr\\\\setting.vue",
-    "chunkName": "pages/usr/setting",
-    "_name": "_26ffd25a"
+    "chunkName": "pages/usr/setting"
   }
 ]
