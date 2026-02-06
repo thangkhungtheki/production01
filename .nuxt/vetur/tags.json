@@ -8,11 +8,20 @@
   "Doughnutchart": {
     "description": "Auto imported from components/Doughnutchart.vue"
   },
+  "LichSuYeuCau": {
+    "description": "Auto imported from components/LichSuYeuCau.vue"
+  },
   "LoadingBar": {
     "description": "Auto imported from components/LoadingBar.vue"
   },
   "Login": {
     "description": "Auto imported from components/Login.vue"
+  },
+  "PhieuYeuCau": {
+    "description": "Auto imported from components/PhieuYeuCau.vue"
+  },
+  "PrintRequest": {
+    "description": "Auto imported from components/PrintRequest.vue"
   },
   "TopNavBar": {
     "description": "Auto imported from components/TopNavBar.vue"
