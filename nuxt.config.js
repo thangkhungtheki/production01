@@ -69,7 +69,9 @@ export default {
     // '@nuxtjs/auth-next'
     
   ],
-
+  axios: {
+    baseURL: process.env.API_URL
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     extend(config, { isDev , isClient }) {
