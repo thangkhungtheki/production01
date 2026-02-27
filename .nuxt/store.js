@@ -12,10 +12,6 @@ let store = {};
 
   // If store is an exported method = classic mode (deprecated)
 
-  if (typeof store === 'function') {
-    return console.warn('Classic mode for store/ is deprecated and will be removed in Nuxt 3.')
-  }
-
   // Enforce store modules
   store.modules = store.modules || {}
 
@@ -31,28 +27,6 @@ let store = {};
   resolveStoreModules(require('..\\store\\hopdong\\state.js'), 'hopdong/state.js')
 
   // If the environment supports hot reloading...
-
-  if (process.client && module.hot) {
-    // Whenever any Vuex module is updated...
-    module.hot.accept([
-      '..\\store\\index.js',
-      '..\\store\\requests.js',
-      '..\\store\\cookies\\actions.js',
-      '..\\store\\cookies\\mutations.js',
-      '..\\store\\cookies\\state.js',
-      '..\\store\\device\\actions.js',
-      '..\\store\\device\\mutations.js',
-      '..\\store\\device\\state.js',
-      '..\\store\\hopdong\\actions.js',
-      '..\\store\\hopdong\\mutations.js',
-      '..\\store\\hopdong\\state.js',
-    ], () => {
-      // Update `root.modules` with the latest definitions.
-      updateModules()
-      // Trigger a hot update in the store.
-      window.$nuxt.$store.hotUpdate(store)
-    })
-  }
 })()
 
 // createStore

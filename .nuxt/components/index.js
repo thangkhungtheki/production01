@@ -1,28 +1,28 @@
-export { default as Barchart } from '../..\\components\\Barchart.vue'
-export { default as CountBar } from '../..\\components\\CountBar.vue'
-export { default as Doughnutchart } from '../..\\components\\Doughnutchart.vue'
-export { default as LichSuYeuCau } from '../..\\components\\LichSuYeuCau.vue'
-export { default as LoadingBar } from '../..\\components\\LoadingBar.vue'
-export { default as Login } from '../..\\components\\Login.vue'
-export { default as PhieuYeuCau } from '../..\\components\\PhieuYeuCau.vue'
-export { default as PrintRequest } from '../..\\components\\PrintRequest.vue'
-export { default as TopNavBar } from '../..\\components\\TopNavBar.vue'
-export { default as AlertDanger } from '../..\\components\\alert\\danger.vue'
-export { default as AssetsImportAssetModal } from '../..\\components\\assets\\ImportAssetModal.vue'
-export { default as AssetsRequestModal } from '../..\\components\\assets\\RequestModal.vue'
-export { default as AssetsStocktakeSession } from '../..\\components\\assets\\StocktakeSession.vue'
-export { default as DepartmentAssets } from '../..\\components\\department\\DepartmentAssets.vue'
-export { default as ModalHopdonginput } from '../..\\components\\modal\\hopdonginput.vue'
-export { default as ModalInput } from '../..\\components\\modal\\input.vue'
-export { default as ModalInput1 } from '../..\\components\\modal\\input1.vue'
-export { default as ModalCreateType } from '../..\\components\\modal\\ModalCreateType.vue'
-export { default as ModalDisposeAsset } from '../..\\components\\modal\\ModalDisposeAsset.vue'
-export { default as ModalDisposeBatch } from '../..\\components\\modal\\ModalDisposeBatch.vue'
-export { default as ModalEditAsset } from '../..\\components\\modal\\ModalEditAsset.vue'
-export { default as ModalImportAsset } from '../..\\components\\modal\\ModalImportAsset.vue'
-export { default as ModalIncidentFast } from '../..\\components\\modal\\ModalIncidentFast.vue'
-export { default as ModalTransferAsset } from '../..\\components\\modal\\ModalTransferAsset.vue'
-export { default as TableUser } from '../..\\components\\table\\table.user.vue'
+export const Barchart = () => import('../..\\components\\Barchart.vue' /* webpackChunkName: "components/barchart" */).then(c => wrapFunctional(c.default || c))
+export const CountBar = () => import('../..\\components\\CountBar.vue' /* webpackChunkName: "components/count-bar" */).then(c => wrapFunctional(c.default || c))
+export const Doughnutchart = () => import('../..\\components\\Doughnutchart.vue' /* webpackChunkName: "components/doughnutchart" */).then(c => wrapFunctional(c.default || c))
+export const LichSuYeuCau = () => import('../..\\components\\LichSuYeuCau.vue' /* webpackChunkName: "components/lich-su-yeu-cau" */).then(c => wrapFunctional(c.default || c))
+export const LoadingBar = () => import('../..\\components\\LoadingBar.vue' /* webpackChunkName: "components/loading-bar" */).then(c => wrapFunctional(c.default || c))
+export const Login = () => import('../..\\components\\Login.vue' /* webpackChunkName: "components/login" */).then(c => wrapFunctional(c.default || c))
+export const PhieuYeuCau = () => import('../..\\components\\PhieuYeuCau.vue' /* webpackChunkName: "components/phieu-yeu-cau" */).then(c => wrapFunctional(c.default || c))
+export const PrintRequest = () => import('../..\\components\\PrintRequest.vue' /* webpackChunkName: "components/print-request" */).then(c => wrapFunctional(c.default || c))
+export const TopNavBar = () => import('../..\\components\\TopNavBar.vue' /* webpackChunkName: "components/top-nav-bar" */).then(c => wrapFunctional(c.default || c))
+export const AssetsImportAssetModal = () => import('../..\\components\\assets\\ImportAssetModal.vue' /* webpackChunkName: "components/assets-import-asset-modal" */).then(c => wrapFunctional(c.default || c))
+export const AssetsRequestModal = () => import('../..\\components\\assets\\RequestModal.vue' /* webpackChunkName: "components/assets-request-modal" */).then(c => wrapFunctional(c.default || c))
+export const AssetsStocktakeSession = () => import('../..\\components\\assets\\StocktakeSession.vue' /* webpackChunkName: "components/assets-stocktake-session" */).then(c => wrapFunctional(c.default || c))
+export const AlertDanger = () => import('../..\\components\\alert\\danger.vue' /* webpackChunkName: "components/alert-danger" */).then(c => wrapFunctional(c.default || c))
+export const DepartmentAssets = () => import('../..\\components\\department\\DepartmentAssets.vue' /* webpackChunkName: "components/department-assets" */).then(c => wrapFunctional(c.default || c))
+export const ModalHopdonginput = () => import('../..\\components\\modal\\hopdonginput.vue' /* webpackChunkName: "components/modal-hopdonginput" */).then(c => wrapFunctional(c.default || c))
+export const ModalInput = () => import('../..\\components\\modal\\input.vue' /* webpackChunkName: "components/modal-input" */).then(c => wrapFunctional(c.default || c))
+export const ModalInput1 = () => import('../..\\components\\modal\\input1.vue' /* webpackChunkName: "components/modal-input1" */).then(c => wrapFunctional(c.default || c))
+export const ModalCreateType = () => import('../..\\components\\modal\\ModalCreateType.vue' /* webpackChunkName: "components/modal-create-type" */).then(c => wrapFunctional(c.default || c))
+export const ModalDisposeAsset = () => import('../..\\components\\modal\\ModalDisposeAsset.vue' /* webpackChunkName: "components/modal-dispose-asset" */).then(c => wrapFunctional(c.default || c))
+export const ModalDisposeBatch = () => import('../..\\components\\modal\\ModalDisposeBatch.vue' /* webpackChunkName: "components/modal-dispose-batch" */).then(c => wrapFunctional(c.default || c))
+export const ModalEditAsset = () => import('../..\\components\\modal\\ModalEditAsset.vue' /* webpackChunkName: "components/modal-edit-asset" */).then(c => wrapFunctional(c.default || c))
+export const ModalImportAsset = () => import('../..\\components\\modal\\ModalImportAsset.vue' /* webpackChunkName: "components/modal-import-asset" */).then(c => wrapFunctional(c.default || c))
+export const ModalIncidentFast = () => import('../..\\components\\modal\\ModalIncidentFast.vue' /* webpackChunkName: "components/modal-incident-fast" */).then(c => wrapFunctional(c.default || c))
+export const ModalTransferAsset = () => import('../..\\components\\modal\\ModalTransferAsset.vue' /* webpackChunkName: "components/modal-transfer-asset" */).then(c => wrapFunctional(c.default || c))
+export const TableUser = () => import('../..\\components\\table\\table.user.vue' /* webpackChunkName: "components/table-user" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
