@@ -130,7 +130,8 @@ export default {
   env: {
     BASE_URL : process.env.BASE_URL || 'http://127.0.0.1:3000',
     BACKEND_URL : process.env.BACKEND_URL || 'http://127.0.0.1:4000',
-    SOCKET_URL : process.env.SOCKET_URL || 'http://127.0.0.1:4500'
+    SOCKET_URL : process.env.SOCKET_URL || 'http://127.0.0.1:4500',
+    
   },
   
   
