@@ -41,6 +41,9 @@
   "DepartmentAssets": {
     "description": "Auto imported from components/department/DepartmentAssets.vue"
   },
+  "TableUser": {
+    "description": "Auto imported from components/table/table.user.vue"
+  },
   "ModalHopdonginput": {
     "description": "Auto imported from components/modal/hopdonginput.vue"
   },
@@ -70,8 +73,5 @@
   },
   "ModalTransferAsset": {
     "description": "Auto imported from components/modal/ModalTransferAsset.vue"
-  },
-  "TableUser": {
-    "description": "Auto imported from components/table/table.user.vue"
   }
 }
