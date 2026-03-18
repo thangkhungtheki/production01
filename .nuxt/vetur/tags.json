@@ -41,9 +41,6 @@
   "DepartmentAssets": {
     "description": "Auto imported from components/department/DepartmentAssets.vue"
   },
-  "TableUser": {
-    "description": "Auto imported from components/table/table.user.vue"
-  },
   "ModalHopdonginput": {
     "description": "Auto imported from components/modal/hopdonginput.vue"
   },
@@ -62,6 +59,9 @@
   "ModalDisposeBatch": {
     "description": "Auto imported from components/modal/ModalDisposeBatch.vue"
   },
+  "ModalDisposeFast": {
+    "description": "Auto imported from components/modal/ModalDisposeFast.vue"
+  },
   "ModalEditAsset": {
     "description": "Auto imported from components/modal/ModalEditAsset.vue"
   },
@@ -73,5 +73,8 @@
   },
   "ModalTransferAsset": {
     "description": "Auto imported from components/modal/ModalTransferAsset.vue"
+  },
+  "TableUser": {
+    "description": "Auto imported from components/table/table.user.vue"
   }
 }

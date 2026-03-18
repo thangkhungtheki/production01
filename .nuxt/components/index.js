@@ -12,17 +12,18 @@ export { default as AssetsImportAssetModal } from '../..\\components\\assets\\Im
 export { default as AssetsRequestModal } from '../..\\components\\assets\\RequestModal.vue'
 export { default as AssetsStocktakeSession } from '../..\\components\\assets\\StocktakeSession.vue'
 export { default as DepartmentAssets } from '../..\\components\\department\\DepartmentAssets.vue'
-export { default as TableUser } from '../..\\components\\table\\table.user.vue'
 export { default as ModalHopdonginput } from '../..\\components\\modal\\hopdonginput.vue'
 export { default as ModalInput } from '../..\\components\\modal\\input.vue'
 export { default as ModalInput1 } from '../..\\components\\modal\\input1.vue'
 export { default as ModalCreateType } from '../..\\components\\modal\\ModalCreateType.vue'
 export { default as ModalDisposeAsset } from '../..\\components\\modal\\ModalDisposeAsset.vue'
 export { default as ModalDisposeBatch } from '../..\\components\\modal\\ModalDisposeBatch.vue'
+export { default as ModalDisposeFast } from '../..\\components\\modal\\ModalDisposeFast.vue'
 export { default as ModalEditAsset } from '../..\\components\\modal\\ModalEditAsset.vue'
 export { default as ModalImportAsset } from '../..\\components\\modal\\ModalImportAsset.vue'
 export { default as ModalIncidentFast } from '../..\\components\\modal\\ModalIncidentFast.vue'
 export { default as ModalTransferAsset } from '../..\\components\\modal\\ModalTransferAsset.vue'
+export { default as TableUser } from '../..\\components\\table\\table.user.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
