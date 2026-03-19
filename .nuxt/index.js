@@ -13,9 +13,9 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_76bdd1b6 from 'nuxt_plugin_plugin_76bdd1b6' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_bootstrapvue_621e9c08 from 'nuxt_plugin_bootstrapvue_621e9c08' // Source: .\\bootstrap-vue.js (mode: 'all')
-import nuxt_plugin_axios_74ecb24e from 'nuxt_plugin_axios_74ecb24e' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_plugin_71635406 from 'nuxt_plugin_plugin_71635406' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_bootstrapvue_9bfc7350 from 'nuxt_plugin_bootstrapvue_9bfc7350' // Source: .\\bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_axios_5d242129 from 'nuxt_plugin_axios_5d242129' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_eventbus_57cbe7c6 from 'nuxt_plugin_eventbus_57cbe7c6' // Source: ..\\plugins\\eventbus.js (mode: 'all')
 import nuxt_plugin_vuenotification_42068071 from 'nuxt_plugin_vuenotification_42068071' // Source: ..\\plugins\\vue-notification.js (mode: 'client')
 import nuxt_plugin_axios_5659d192 from 'nuxt_plugin_axios_5659d192' // Source: ..\\plugins\\axios.js (mode: 'all')
@@ -219,16 +219,16 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_76bdd1b6 === 'function') {
-    await nuxt_plugin_plugin_76bdd1b6(app.context, inject)
+  if (typeof nuxt_plugin_plugin_71635406 === 'function') {
+    await nuxt_plugin_plugin_71635406(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_bootstrapvue_621e9c08 === 'function') {
-    await nuxt_plugin_bootstrapvue_621e9c08(app.context, inject)
+  if (typeof nuxt_plugin_bootstrapvue_9bfc7350 === 'function') {
+    await nuxt_plugin_bootstrapvue_9bfc7350(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_74ecb24e === 'function') {
-    await nuxt_plugin_axios_74ecb24e(app.context, inject)
+  if (typeof nuxt_plugin_axios_5d242129 === 'function') {
+    await nuxt_plugin_axios_5d242129(app.context, inject)
   }
 
   if (typeof nuxt_plugin_eventbus_57cbe7c6 === 'function') {
