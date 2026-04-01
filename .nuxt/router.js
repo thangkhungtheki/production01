@@ -32,6 +32,7 @@ const _fa1a497a = () => interopDefault(import('..\\pages\\login\\checklogin.vue'
 const _2ed52766 = () => interopDefault(import('..\\pages\\template\\table.vue' /* webpackChunkName: "pages/template/table" */))
 const _26ffd25a = () => interopDefault(import('..\\pages\\usr\\setting.vue' /* webpackChunkName: "pages/usr/setting" */))
 const _18c95199 = () => interopDefault(import('..\\pages\\ketoan\\hotrokythuat\\lichsu.vue' /* webpackChunkName: "pages/ketoan/hotrokythuat/lichsu" */))
+const _4c4b4646 = () => interopDefault(import('..\\pages\\ketoan\\report\\xuatnhapton.vue' /* webpackChunkName: "pages/ketoan/report/xuatnhapton" */))
 
 const emptyFn = () => {}
 
@@ -156,6 +157,10 @@ export const routerOptions = {
     path: "/ketoan/hotrokythuat/lichsu",
     component: _18c95199,
     name: "ketoan-hotrokythuat-lichsu"
+  }, {
+    path: "/ketoan/report/xuatnhapton",
+    component: _4c4b4646,
+    name: "ketoan-report-xuatnhapton"
   }],
 
   fallback: false
