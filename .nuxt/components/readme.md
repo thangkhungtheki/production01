@@ -27,6 +27,7 @@ You can directly use them in pages and other components without the need to impo
 - `<ModalCreateType>` | `<modal-create-type>` (components/modal/ModalCreateType.vue)
 - `<ModalDisposeAsset>` | `<modal-dispose-asset>` (components/modal/ModalDisposeAsset.vue)
 - `<ModalDisposeBatch>` | `<modal-dispose-batch>` (components/modal/ModalDisposeBatch.vue)
+- `<ModalDisposeFastOld>` | `<modal-dispose-fast-old>` (components/modal/ModalDisposeFast.old.vue)
 - `<ModalDisposeFast>` | `<modal-dispose-fast>` (components/modal/ModalDisposeFast.vue)
 - `<ModalEditAsset>` | `<modal-edit-asset>` (components/modal/ModalEditAsset.vue)
 - `<ModalImportAsset>` | `<modal-import-asset>` (components/modal/ModalImportAsset.vue)

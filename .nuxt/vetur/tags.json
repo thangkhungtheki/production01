@@ -62,6 +62,9 @@
   "ModalDisposeBatch": {
     "description": "Auto imported from components/modal/ModalDisposeBatch.vue"
   },
+  "ModalDisposeFastOld": {
+    "description": "Auto imported from components/modal/ModalDisposeFast.old.vue"
+  },
   "ModalDisposeFast": {
     "description": "Auto imported from components/modal/ModalDisposeFast.vue"
   },
