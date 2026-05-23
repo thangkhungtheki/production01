@@ -20,6 +20,7 @@ You can directly use them in pages and other components without the need to impo
 - `<AssetsRequestModal>` | `<assets-request-modal>` (components/assets/RequestModal.vue)
 - `<AssetsStocktakeSession>` | `<assets-stocktake-session>` (components/assets/StocktakeSession.vue)
 - `<DepartmentAssets>` | `<department-assets>` (components/department/DepartmentAssets.vue)
+- `<TableUser>` | `<table-user>` (components/table/table.user.vue)
 - `<ModalHopdonginput>` | `<modal-hopdonginput>` (components/modal/hopdonginput.vue)
 - `<ModalImportPreviewTemp>` | `<modal-import-preview-temp>` (components/modal/ImportPreview_temp.vue)
 - `<ModalInput>` | `<modal-input>` (components/modal/input.vue)
@@ -33,4 +34,3 @@ You can directly use them in pages and other components without the need to impo
 - `<ModalImportAsset>` | `<modal-import-asset>` (components/modal/ModalImportAsset.vue)
 - `<ModalIncidentFast>` | `<modal-incident-fast>` (components/modal/ModalIncidentFast.vue)
 - `<ModalTransferAsset>` | `<modal-transfer-asset>` (components/modal/ModalTransferAsset.vue)
-- `<TableUser>` | `<table-user>` (components/table/table.user.vue)
