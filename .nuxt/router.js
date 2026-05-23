@@ -23,6 +23,7 @@ const _6520c590 = () => interopDefault(import('..\\pages\\admin\\setting.vue' /*
 const _dd736830 = () => interopDefault(import('..\\pages\\ketoan\\baocao\\index.vue' /* webpackChunkName: "pages/ketoan/baocao/index" */))
 const _9348c2ca = () => interopDefault(import('..\\pages\\ketoan\\danhsachtaisan\\index.vue' /* webpackChunkName: "pages/ketoan/danhsachtaisan/index" */))
 const _a5f887ea = () => interopDefault(import('..\\pages\\ketoan\\dashboard.vue' /* webpackChunkName: "pages/ketoan/dashboard" */))
+const _cc1dcbb8 = () => interopDefault(import('..\\pages\\ketoan\\disposal-tickets.vue' /* webpackChunkName: "pages/ketoan/disposal-tickets" */))
 const _0840a3fe = () => interopDefault(import('..\\pages\\ketoan\\hopdong\\index.vue' /* webpackChunkName: "pages/ketoan/hopdong/index" */))
 const _01158b66 = () => interopDefault(import('..\\pages\\ketoan\\hotrokythuat\\index.vue' /* webpackChunkName: "pages/ketoan/hotrokythuat/index" */))
 const _0c690433 = () => interopDefault(import('..\\pages\\ketoan\\indexold1.vue' /* webpackChunkName: "pages/ketoan/indexold1" */))
@@ -122,6 +123,10 @@ export const routerOptions = {
     path: "/ketoan/dashboard",
     component: _a5f887ea,
     name: "ketoan-dashboard"
+  }, {
+    path: "/ketoan/disposal-tickets",
+    component: _cc1dcbb8,
+    name: "ketoan-disposal-tickets"
   }, {
     path: "/ketoan/hopdong",
     component: _0840a3fe,

@@ -133,6 +133,13 @@
     "_name": "_a5f887ea"
   },
   {
+    "name": "ketoan-disposal-tickets",
+    "path": "/ketoan/disposal-tickets",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\disposal-tickets.vue",
+    "chunkName": "pages/ketoan/disposal-tickets",
+    "_name": "_cc1dcbb8"
+  },
+  {
     "name": "ketoan-hopdong",
     "path": "/ketoan/hopdong",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\hopdong\\\\index.vue",
