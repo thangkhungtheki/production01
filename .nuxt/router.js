@@ -34,6 +34,7 @@ const _2ed52766 = () => interopDefault(import('..\\pages\\template\\table.vue' /
 const _26ffd25a = () => interopDefault(import('..\\pages\\usr\\setting.vue' /* webpackChunkName: "pages/usr/setting" */))
 const _18c95199 = () => interopDefault(import('..\\pages\\ketoan\\hotrokythuat\\lichsu.vue' /* webpackChunkName: "pages/ketoan/hotrokythuat/lichsu" */))
 const _39128c28 = () => interopDefault(import('..\\pages\\ketoan\\report\\index1.vue' /* webpackChunkName: "pages/ketoan/report/index1" */))
+const _38f65d26 = () => interopDefault(import('..\\pages\\ketoan\\report\\index2.vue' /* webpackChunkName: "pages/ketoan/report/index2" */))
 const _4c4b4646 = () => interopDefault(import('..\\pages\\ketoan\\report\\xuatnhapton.vue' /* webpackChunkName: "pages/ketoan/report/xuatnhapton" */))
 const _104ff5d4 = () => interopDefault(import('..\\pages\\ketoan\\report\\xuatnhapton.old.vue' /* webpackChunkName: "pages/ketoan/report/xuatnhapton.old" */))
 
@@ -168,6 +169,10 @@ export const routerOptions = {
     path: "/ketoan/report/index1",
     component: _39128c28,
     name: "ketoan-report-index1"
+  }, {
+    path: "/ketoan/report/index2",
+    component: _38f65d26,
+    name: "ketoan-report-index2"
   }, {
     path: "/ketoan/report/xuatnhapton",
     component: _4c4b4646,
