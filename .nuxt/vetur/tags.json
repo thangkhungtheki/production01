@@ -26,9 +26,6 @@
   "TopNavBar": {
     "description": "Auto imported from components/TopNavBar.vue"
   },
-  "AlertDanger": {
-    "description": "Auto imported from components/alert/danger.vue"
-  },
   "AssetsImportAssetModal": {
     "description": "Auto imported from components/assets/ImportAssetModal.vue"
   },
@@ -37,6 +34,9 @@
   },
   "AssetsStocktakeSession": {
     "description": "Auto imported from components/assets/StocktakeSession.vue"
+  },
+  "AlertDanger": {
+    "description": "Auto imported from components/alert/danger.vue"
   },
   "DepartmentAssets": {
     "description": "Auto imported from components/department/DepartmentAssets.vue"
