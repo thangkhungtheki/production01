@@ -28,6 +28,7 @@ const _0840a3fe = () => interopDefault(import('..\\pages\\ketoan\\hopdong\\index
 const _01158b66 = () => interopDefault(import('..\\pages\\ketoan\\hotrokythuat\\index.vue' /* webpackChunkName: "pages/ketoan/hotrokythuat/index" */))
 const _0c690433 = () => interopDefault(import('..\\pages\\ketoan\\indexold1.vue' /* webpackChunkName: "pages/ketoan/indexold1" */))
 const _6fd8e42e = () => interopDefault(import('..\\pages\\ketoan\\kiemke\\index.vue' /* webpackChunkName: "pages/ketoan/kiemke/index" */))
+const _a861b074 = () => interopDefault(import('..\\pages\\ketoan\\nhat-ky-nhap-kho.vue' /* webpackChunkName: "pages/ketoan/nhat-ky-nhap-kho" */))
 const _0f982a95 = () => interopDefault(import('..\\pages\\ketoan\\report\\index.vue' /* webpackChunkName: "pages/ketoan/report/index" */))
 const _fa1a497a = () => interopDefault(import('..\\pages\\login\\checklogin.vue' /* webpackChunkName: "pages/login/checklogin" */))
 const _2ed52766 = () => interopDefault(import('..\\pages\\template\\table.vue' /* webpackChunkName: "pages/template/table" */))
@@ -145,6 +146,10 @@ export const routerOptions = {
     path: "/ketoan/kiemke",
     component: _6fd8e42e,
     name: "ketoan-kiemke"
+  }, {
+    path: "/ketoan/nhat-ky-nhap-kho",
+    component: _a861b074,
+    name: "ketoan-nhat-ky-nhap-kho"
   }, {
     path: "/ketoan/report",
     component: _0f982a95,
