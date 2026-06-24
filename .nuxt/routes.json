@@ -96,6 +96,12 @@
     "chunkName": "pages/admin/setting"
   },
   {
+    "name": "ketoan-action-logs",
+    "path": "/ketoan/action-logs",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\action-logs.vue",
+    "chunkName": "pages/ketoan/action-logs"
+  },
+  {
     "name": "ketoan-baocao",
     "path": "/ketoan/baocao",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\baocao\\\\index.vue",

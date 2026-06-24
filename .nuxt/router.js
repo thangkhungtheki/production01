@@ -20,6 +20,7 @@ const _47d07840 = () => interopDefault(import('..\\pages\\user\\index.vue' /* we
 const _16e802b1 = () => interopDefault(import('..\\pages\\xindex.vue' /* webpackChunkName: "pages/xindex" */))
 const _00acbf13 = () => interopDefault(import('..\\pages\\a4form\\testa4.vue' /* webpackChunkName: "pages/a4form/testa4" */))
 const _6520c590 = () => interopDefault(import('..\\pages\\admin\\setting.vue' /* webpackChunkName: "pages/admin/setting" */))
+const _473110c6 = () => interopDefault(import('..\\pages\\ketoan\\action-logs.vue' /* webpackChunkName: "pages/ketoan/action-logs" */))
 const _dd736830 = () => interopDefault(import('..\\pages\\ketoan\\baocao\\index.vue' /* webpackChunkName: "pages/ketoan/baocao/index" */))
 const _9348c2ca = () => interopDefault(import('..\\pages\\ketoan\\danhsachtaisan\\index.vue' /* webpackChunkName: "pages/ketoan/danhsachtaisan/index" */))
 const _a5f887ea = () => interopDefault(import('..\\pages\\ketoan\\dashboard.vue' /* webpackChunkName: "pages/ketoan/dashboard" */))
@@ -114,6 +115,10 @@ export const routerOptions = {
     path: "/admin/setting",
     component: _6520c590,
     name: "admin-setting"
+  }, {
+    path: "/ketoan/action-logs",
+    component: _473110c6,
+    name: "ketoan-action-logs"
   }, {
     path: "/ketoan/baocao",
     component: _dd736830,
