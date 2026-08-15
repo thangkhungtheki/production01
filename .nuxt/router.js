@@ -21,6 +21,9 @@ const _16e802b1 = () => interopDefault(import('..\\pages\\xindex.vue' /* webpack
 const _00acbf13 = () => interopDefault(import('..\\pages\\a4form\\testa4.vue' /* webpackChunkName: "pages/a4form/testa4" */))
 const _6520c590 = () => interopDefault(import('..\\pages\\admin\\setting.vue' /* webpackChunkName: "pages/admin/setting" */))
 const _634f8c86 = () => interopDefault(import('..\\pages\\baove\\taisan\\index.vue' /* webpackChunkName: "pages/baove/taisan/index" */))
+const _aaa5e890 = () => interopDefault(import('..\\pages\\bep\\taisan\\index.vue' /* webpackChunkName: "pages/bep/taisan/index" */))
+const _33294734 = () => interopDefault(import('..\\pages\\fandb\\taisan\\index.vue' /* webpackChunkName: "pages/fandb/taisan/index" */))
+const _5b66c685 = () => interopDefault(import('..\\pages\\house\\taisan\\index.vue' /* webpackChunkName: "pages/house/taisan/index" */))
 const _473110c6 = () => interopDefault(import('..\\pages\\ketoan\\action-logs.vue' /* webpackChunkName: "pages/ketoan/action-logs" */))
 const _dd736830 = () => interopDefault(import('..\\pages\\ketoan\\baocao\\index.vue' /* webpackChunkName: "pages/ketoan/baocao/index" */))
 const _9348c2ca = () => interopDefault(import('..\\pages\\ketoan\\danhsachtaisan\\index.vue' /* webpackChunkName: "pages/ketoan/danhsachtaisan/index" */))
@@ -43,6 +46,30 @@ const _2bfaf847 = () => interopDefault(import('..\\pages\\baove\\taisan\\disposa
 const _30041aa6 = () => interopDefault(import('..\\pages\\baove\\taisan\\kiemke\\index.vue' /* webpackChunkName: "pages/baove/taisan/kiemke/index" */))
 const _3dd905e9 = () => interopDefault(import('..\\pages\\baove\\taisan\\nhat-ky-nhap-kho.vue' /* webpackChunkName: "pages/baove/taisan/nhat-ky-nhap-kho" */))
 const _7788b752 = () => interopDefault(import('..\\pages\\baove\\taisan\\report\\index.vue' /* webpackChunkName: "pages/baove/taisan/report/index" */))
+const _5197e14c = () => interopDefault(import('..\\pages\\bep\\taisan\\action-logs.vue' /* webpackChunkName: "pages/bep/taisan/action-logs" */))
+const _7c0305d7 = () => interopDefault(import('..\\pages\\bep\\taisan\\baocao\\index.vue' /* webpackChunkName: "pages/bep/taisan/baocao/index" */))
+const _0532f98a = () => interopDefault(import('..\\pages\\bep\\taisan\\danhsachtaisan\\index.vue' /* webpackChunkName: "pages/bep/taisan/danhsachtaisan/index" */))
+const _0150c57a = () => interopDefault(import('..\\pages\\bep\\taisan\\dashboard.vue' /* webpackChunkName: "pages/bep/taisan/dashboard" */))
+const _3a3a65d5 = () => interopDefault(import('..\\pages\\bep\\taisan\\disposal-tickets.vue' /* webpackChunkName: "pages/bep/taisan/disposal-tickets" */))
+const _9a5f7050 = () => interopDefault(import('..\\pages\\bep\\taisan\\kiemke\\index.vue' /* webpackChunkName: "pages/bep/taisan/kiemke/index" */))
+const _4c187377 = () => interopDefault(import('..\\pages\\bep\\taisan\\nhat-ky-nhap-kho.vue' /* webpackChunkName: "pages/bep/taisan/nhat-ky-nhap-kho" */))
+const _0b5636f8 = () => interopDefault(import('..\\pages\\bep\\taisan\\report\\index.vue' /* webpackChunkName: "pages/bep/taisan/report/index" */))
+const _3c408fc8 = () => interopDefault(import('..\\pages\\fandb\\taisan\\action-logs.vue' /* webpackChunkName: "pages/fandb/taisan/action-logs" */))
+const _5f3a0553 = () => interopDefault(import('..\\pages\\fandb\\taisan\\baocao\\index.vue' /* webpackChunkName: "pages/fandb/taisan/baocao/index" */))
+const _4e20bd06 = () => interopDefault(import('..\\pages\\fandb\\taisan\\danhsachtaisan\\index.vue' /* webpackChunkName: "pages/fandb/taisan/danhsachtaisan/index" */))
+const _320ae2f6 = () => interopDefault(import('..\\pages\\fandb\\taisan\\dashboard.vue' /* webpackChunkName: "pages/fandb/taisan/dashboard" */))
+const _776764d9 = () => interopDefault(import('..\\pages\\fandb\\taisan\\disposal-tickets.vue' /* webpackChunkName: "pages/fandb/taisan/disposal-tickets" */))
+const _d3f17158 = () => interopDefault(import('..\\pages\\fandb\\taisan\\kiemke\\index.vue' /* webpackChunkName: "pages/fandb/taisan/kiemke/index" */))
+const _ed751b0a = () => interopDefault(import('..\\pages\\fandb\\taisan\\nhat-ky-nhap-kho.vue' /* webpackChunkName: "pages/fandb/taisan/nhat-ky-nhap-kho" */))
+const _44e83800 = () => interopDefault(import('..\\pages\\fandb\\taisan\\report\\index.vue' /* webpackChunkName: "pages/fandb/taisan/report/index" */))
+const _76fb8e59 = () => interopDefault(import('..\\pages\\house\\taisan\\action-logs.vue' /* webpackChunkName: "pages/house/taisan/action-logs" */))
+const _51a0b8b8 = () => interopDefault(import('..\\pages\\house\\taisan\\baocao\\index.vue' /* webpackChunkName: "pages/house/taisan/baocao/index" */))
+const _273f7a57 = () => interopDefault(import('..\\pages\\house\\taisan\\danhsachtaisan\\index.vue' /* webpackChunkName: "pages/house/taisan/danhsachtaisan/index" */))
+const _14335c72 = () => interopDefault(import('..\\pages\\house\\taisan\\dashboard.vue' /* webpackChunkName: "pages/house/taisan/dashboard" */))
+const _4749d8e8 = () => interopDefault(import('..\\pages\\house\\taisan\\disposal-tickets.vue' /* webpackChunkName: "pages/house/taisan/disposal-tickets" */))
+const _0dfce5a5 = () => interopDefault(import('..\\pages\\house\\taisan\\kiemke\\index.vue' /* webpackChunkName: "pages/house/taisan/kiemke/index" */))
+const _5927e68a = () => interopDefault(import('..\\pages\\house\\taisan\\nhat-ky-nhap-kho.vue' /* webpackChunkName: "pages/house/taisan/nhat-ky-nhap-kho" */))
+const _55818251 = () => interopDefault(import('..\\pages\\house\\taisan\\report\\index.vue' /* webpackChunkName: "pages/house/taisan/report/index" */))
 const _18c95199 = () => interopDefault(import('..\\pages\\ketoan\\hotrokythuat\\lichsu.vue' /* webpackChunkName: "pages/ketoan/hotrokythuat/lichsu" */))
 const _3d10079c = () => interopDefault(import('..\\pages\\ketoan\\report\\catalog.vue' /* webpackChunkName: "pages/ketoan/report/catalog" */))
 const _39128c28 = () => interopDefault(import('..\\pages\\ketoan\\report\\index1.vue' /* webpackChunkName: "pages/ketoan/report/index1" */))
@@ -54,6 +81,21 @@ const _7997c4cf = () => interopDefault(import('..\\pages\\baove\\taisan\\report\
 const _79a5dc50 = () => interopDefault(import('..\\pages\\baove\\taisan\\report\\index2.vue' /* webpackChunkName: "pages/baove/taisan/report/index2" */))
 const _f7a8b04c = () => interopDefault(import('..\\pages\\baove\\taisan\\report\\xuatnhapton.vue' /* webpackChunkName: "pages/baove/taisan/report/xuatnhapton" */))
 const _32618993 = () => interopDefault(import('..\\pages\\baove\\taisan\\report\\xuatnhapton.old.vue' /* webpackChunkName: "pages/baove/taisan/report/xuatnhapton.old" */))
+const _6b8601cb = () => interopDefault(import('..\\pages\\bep\\taisan\\report\\catalog.vue' /* webpackChunkName: "pages/bep/taisan/report/catalog" */))
+const _50513ddd = () => interopDefault(import('..\\pages\\bep\\taisan\\report\\index1.vue' /* webpackChunkName: "pages/bep/taisan/report/index1" */))
+const _505f555e = () => interopDefault(import('..\\pages\\bep\\taisan\\report\\index2.vue' /* webpackChunkName: "pages/bep/taisan/report/index2" */))
+const _e94cb0e8 = () => interopDefault(import('..\\pages\\bep\\taisan\\report\\xuatnhapton.vue' /* webpackChunkName: "pages/bep/taisan/report/xuatnhapton" */))
+const _23773f76 = () => interopDefault(import('..\\pages\\bep\\taisan\\report\\xuatnhapton.old.vue' /* webpackChunkName: "pages/bep/taisan/report/xuatnhapton.old" */))
+const _5cfb1247 = () => interopDefault(import('..\\pages\\fandb\\taisan\\report\\catalog.vue' /* webpackChunkName: "pages/fandb/taisan/report/catalog" */))
+const _580ba43e = () => interopDefault(import('..\\pages\\fandb\\taisan\\report\\index1.vue' /* webpackChunkName: "pages/fandb/taisan/report/index1" */))
+const _57ef753c = () => interopDefault(import('..\\pages\\fandb\\taisan\\report\\index2.vue' /* webpackChunkName: "pages/fandb/taisan/report/index2" */))
+const _bacbcbf0 = () => interopDefault(import('..\\pages\\fandb\\taisan\\report\\xuatnhapton.vue' /* webpackChunkName: "pages/fandb/taisan/report/xuatnhapton" */))
+const _9a61967e = () => interopDefault(import('..\\pages\\fandb\\taisan\\report\\xuatnhapton.old.vue' /* webpackChunkName: "pages/fandb/taisan/report/xuatnhapton.old" */))
+const _a3fb3f50 = () => interopDefault(import('..\\pages\\house\\taisan\\report\\catalog.vue' /* webpackChunkName: "pages/house/taisan/report/catalog" */))
+const _5ab859b0 = () => interopDefault(import('..\\pages\\house\\taisan\\report\\index1.vue' /* webpackChunkName: "pages/house/taisan/report/index1" */))
+const _5ac67131 = () => interopDefault(import('..\\pages\\house\\taisan\\report\\index2.vue' /* webpackChunkName: "pages/house/taisan/report/index2" */))
+const _6439f799 = () => interopDefault(import('..\\pages\\house\\taisan\\report\\xuatnhapton.vue' /* webpackChunkName: "pages/house/taisan/report/xuatnhapton" */))
+const _81983c5c = () => interopDefault(import('..\\pages\\house\\taisan\\report\\xuatnhapton.old.vue' /* webpackChunkName: "pages/house/taisan/report/xuatnhapton.old" */))
 
 const emptyFn = () => {}
 
@@ -134,6 +176,18 @@ export const routerOptions = {
     path: "/baove/taisan",
     component: _634f8c86,
     name: "baove-taisan"
+  }, {
+    path: "/bep/taisan",
+    component: _aaa5e890,
+    name: "bep-taisan"
+  }, {
+    path: "/fandb/taisan",
+    component: _33294734,
+    name: "fandb-taisan"
+  }, {
+    path: "/house/taisan",
+    component: _5b66c685,
+    name: "house-taisan"
   }, {
     path: "/ketoan/action-logs",
     component: _473110c6,
@@ -223,6 +277,102 @@ export const routerOptions = {
     component: _7788b752,
     name: "baove-taisan-report"
   }, {
+    path: "/bep/taisan/action-logs",
+    component: _5197e14c,
+    name: "bep-taisan-action-logs"
+  }, {
+    path: "/bep/taisan/baocao",
+    component: _7c0305d7,
+    name: "bep-taisan-baocao"
+  }, {
+    path: "/bep/taisan/danhsachtaisan",
+    component: _0532f98a,
+    name: "bep-taisan-danhsachtaisan"
+  }, {
+    path: "/bep/taisan/dashboard",
+    component: _0150c57a,
+    name: "bep-taisan-dashboard"
+  }, {
+    path: "/bep/taisan/disposal-tickets",
+    component: _3a3a65d5,
+    name: "bep-taisan-disposal-tickets"
+  }, {
+    path: "/bep/taisan/kiemke",
+    component: _9a5f7050,
+    name: "bep-taisan-kiemke"
+  }, {
+    path: "/bep/taisan/nhat-ky-nhap-kho",
+    component: _4c187377,
+    name: "bep-taisan-nhat-ky-nhap-kho"
+  }, {
+    path: "/bep/taisan/report",
+    component: _0b5636f8,
+    name: "bep-taisan-report"
+  }, {
+    path: "/fandb/taisan/action-logs",
+    component: _3c408fc8,
+    name: "fandb-taisan-action-logs"
+  }, {
+    path: "/fandb/taisan/baocao",
+    component: _5f3a0553,
+    name: "fandb-taisan-baocao"
+  }, {
+    path: "/fandb/taisan/danhsachtaisan",
+    component: _4e20bd06,
+    name: "fandb-taisan-danhsachtaisan"
+  }, {
+    path: "/fandb/taisan/dashboard",
+    component: _320ae2f6,
+    name: "fandb-taisan-dashboard"
+  }, {
+    path: "/fandb/taisan/disposal-tickets",
+    component: _776764d9,
+    name: "fandb-taisan-disposal-tickets"
+  }, {
+    path: "/fandb/taisan/kiemke",
+    component: _d3f17158,
+    name: "fandb-taisan-kiemke"
+  }, {
+    path: "/fandb/taisan/nhat-ky-nhap-kho",
+    component: _ed751b0a,
+    name: "fandb-taisan-nhat-ky-nhap-kho"
+  }, {
+    path: "/fandb/taisan/report",
+    component: _44e83800,
+    name: "fandb-taisan-report"
+  }, {
+    path: "/house/taisan/action-logs",
+    component: _76fb8e59,
+    name: "house-taisan-action-logs"
+  }, {
+    path: "/house/taisan/baocao",
+    component: _51a0b8b8,
+    name: "house-taisan-baocao"
+  }, {
+    path: "/house/taisan/danhsachtaisan",
+    component: _273f7a57,
+    name: "house-taisan-danhsachtaisan"
+  }, {
+    path: "/house/taisan/dashboard",
+    component: _14335c72,
+    name: "house-taisan-dashboard"
+  }, {
+    path: "/house/taisan/disposal-tickets",
+    component: _4749d8e8,
+    name: "house-taisan-disposal-tickets"
+  }, {
+    path: "/house/taisan/kiemke",
+    component: _0dfce5a5,
+    name: "house-taisan-kiemke"
+  }, {
+    path: "/house/taisan/nhat-ky-nhap-kho",
+    component: _5927e68a,
+    name: "house-taisan-nhat-ky-nhap-kho"
+  }, {
+    path: "/house/taisan/report",
+    component: _55818251,
+    name: "house-taisan-report"
+  }, {
     path: "/ketoan/hotrokythuat/lichsu",
     component: _18c95199,
     name: "ketoan-hotrokythuat-lichsu"
@@ -266,6 +416,66 @@ export const routerOptions = {
     path: "/baove/taisan/report/xuatnhapton.old",
     component: _32618993,
     name: "baove-taisan-report-xuatnhapton.old"
+  }, {
+    path: "/bep/taisan/report/catalog",
+    component: _6b8601cb,
+    name: "bep-taisan-report-catalog"
+  }, {
+    path: "/bep/taisan/report/index1",
+    component: _50513ddd,
+    name: "bep-taisan-report-index1"
+  }, {
+    path: "/bep/taisan/report/index2",
+    component: _505f555e,
+    name: "bep-taisan-report-index2"
+  }, {
+    path: "/bep/taisan/report/xuatnhapton",
+    component: _e94cb0e8,
+    name: "bep-taisan-report-xuatnhapton"
+  }, {
+    path: "/bep/taisan/report/xuatnhapton.old",
+    component: _23773f76,
+    name: "bep-taisan-report-xuatnhapton.old"
+  }, {
+    path: "/fandb/taisan/report/catalog",
+    component: _5cfb1247,
+    name: "fandb-taisan-report-catalog"
+  }, {
+    path: "/fandb/taisan/report/index1",
+    component: _580ba43e,
+    name: "fandb-taisan-report-index1"
+  }, {
+    path: "/fandb/taisan/report/index2",
+    component: _57ef753c,
+    name: "fandb-taisan-report-index2"
+  }, {
+    path: "/fandb/taisan/report/xuatnhapton",
+    component: _bacbcbf0,
+    name: "fandb-taisan-report-xuatnhapton"
+  }, {
+    path: "/fandb/taisan/report/xuatnhapton.old",
+    component: _9a61967e,
+    name: "fandb-taisan-report-xuatnhapton.old"
+  }, {
+    path: "/house/taisan/report/catalog",
+    component: _a3fb3f50,
+    name: "house-taisan-report-catalog"
+  }, {
+    path: "/house/taisan/report/index1",
+    component: _5ab859b0,
+    name: "house-taisan-report-index1"
+  }, {
+    path: "/house/taisan/report/index2",
+    component: _5ac67131,
+    name: "house-taisan-report-index2"
+  }, {
+    path: "/house/taisan/report/xuatnhapton",
+    component: _6439f799,
+    name: "house-taisan-report-xuatnhapton"
+  }, {
+    path: "/house/taisan/report/xuatnhapton.old",
+    component: _81983c5c,
+    name: "house-taisan-report-xuatnhapton.old"
   }],
 
   fallback: false

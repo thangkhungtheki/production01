@@ -119,6 +119,27 @@
     "_name": "_634f8c86"
   },
   {
+    "name": "bep-taisan",
+    "path": "/bep/taisan",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\index.vue",
+    "chunkName": "pages/bep/taisan/index",
+    "_name": "_aaa5e890"
+  },
+  {
+    "name": "fandb-taisan",
+    "path": "/fandb/taisan",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\index.vue",
+    "chunkName": "pages/fandb/taisan/index",
+    "_name": "_33294734"
+  },
+  {
+    "name": "house-taisan",
+    "path": "/house/taisan",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\index.vue",
+    "chunkName": "pages/house/taisan/index",
+    "_name": "_5b66c685"
+  },
+  {
     "name": "ketoan-action-logs",
     "path": "/ketoan/action-logs",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\action-logs.vue",
@@ -273,6 +294,174 @@
     "_name": "_7788b752"
   },
   {
+    "name": "bep-taisan-action-logs",
+    "path": "/bep/taisan/action-logs",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\action-logs.vue",
+    "chunkName": "pages/bep/taisan/action-logs",
+    "_name": "_5197e14c"
+  },
+  {
+    "name": "bep-taisan-baocao",
+    "path": "/bep/taisan/baocao",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\baocao\\\\index.vue",
+    "chunkName": "pages/bep/taisan/baocao/index",
+    "_name": "_7c0305d7"
+  },
+  {
+    "name": "bep-taisan-danhsachtaisan",
+    "path": "/bep/taisan/danhsachtaisan",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\danhsachtaisan\\\\index.vue",
+    "chunkName": "pages/bep/taisan/danhsachtaisan/index",
+    "_name": "_0532f98a"
+  },
+  {
+    "name": "bep-taisan-dashboard",
+    "path": "/bep/taisan/dashboard",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\dashboard.vue",
+    "chunkName": "pages/bep/taisan/dashboard",
+    "_name": "_0150c57a"
+  },
+  {
+    "name": "bep-taisan-disposal-tickets",
+    "path": "/bep/taisan/disposal-tickets",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\disposal-tickets.vue",
+    "chunkName": "pages/bep/taisan/disposal-tickets",
+    "_name": "_3a3a65d5"
+  },
+  {
+    "name": "bep-taisan-kiemke",
+    "path": "/bep/taisan/kiemke",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\kiemke\\\\index.vue",
+    "chunkName": "pages/bep/taisan/kiemke/index",
+    "_name": "_9a5f7050"
+  },
+  {
+    "name": "bep-taisan-nhat-ky-nhap-kho",
+    "path": "/bep/taisan/nhat-ky-nhap-kho",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\nhat-ky-nhap-kho.vue",
+    "chunkName": "pages/bep/taisan/nhat-ky-nhap-kho",
+    "_name": "_4c187377"
+  },
+  {
+    "name": "bep-taisan-report",
+    "path": "/bep/taisan/report",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\report\\\\index.vue",
+    "chunkName": "pages/bep/taisan/report/index",
+    "_name": "_0b5636f8"
+  },
+  {
+    "name": "fandb-taisan-action-logs",
+    "path": "/fandb/taisan/action-logs",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\action-logs.vue",
+    "chunkName": "pages/fandb/taisan/action-logs",
+    "_name": "_3c408fc8"
+  },
+  {
+    "name": "fandb-taisan-baocao",
+    "path": "/fandb/taisan/baocao",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\baocao\\\\index.vue",
+    "chunkName": "pages/fandb/taisan/baocao/index",
+    "_name": "_5f3a0553"
+  },
+  {
+    "name": "fandb-taisan-danhsachtaisan",
+    "path": "/fandb/taisan/danhsachtaisan",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\danhsachtaisan\\\\index.vue",
+    "chunkName": "pages/fandb/taisan/danhsachtaisan/index",
+    "_name": "_4e20bd06"
+  },
+  {
+    "name": "fandb-taisan-dashboard",
+    "path": "/fandb/taisan/dashboard",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\dashboard.vue",
+    "chunkName": "pages/fandb/taisan/dashboard",
+    "_name": "_320ae2f6"
+  },
+  {
+    "name": "fandb-taisan-disposal-tickets",
+    "path": "/fandb/taisan/disposal-tickets",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\disposal-tickets.vue",
+    "chunkName": "pages/fandb/taisan/disposal-tickets",
+    "_name": "_776764d9"
+  },
+  {
+    "name": "fandb-taisan-kiemke",
+    "path": "/fandb/taisan/kiemke",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\kiemke\\\\index.vue",
+    "chunkName": "pages/fandb/taisan/kiemke/index",
+    "_name": "_d3f17158"
+  },
+  {
+    "name": "fandb-taisan-nhat-ky-nhap-kho",
+    "path": "/fandb/taisan/nhat-ky-nhap-kho",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\nhat-ky-nhap-kho.vue",
+    "chunkName": "pages/fandb/taisan/nhat-ky-nhap-kho",
+    "_name": "_ed751b0a"
+  },
+  {
+    "name": "fandb-taisan-report",
+    "path": "/fandb/taisan/report",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\report\\\\index.vue",
+    "chunkName": "pages/fandb/taisan/report/index",
+    "_name": "_44e83800"
+  },
+  {
+    "name": "house-taisan-action-logs",
+    "path": "/house/taisan/action-logs",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\action-logs.vue",
+    "chunkName": "pages/house/taisan/action-logs",
+    "_name": "_76fb8e59"
+  },
+  {
+    "name": "house-taisan-baocao",
+    "path": "/house/taisan/baocao",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\baocao\\\\index.vue",
+    "chunkName": "pages/house/taisan/baocao/index",
+    "_name": "_51a0b8b8"
+  },
+  {
+    "name": "house-taisan-danhsachtaisan",
+    "path": "/house/taisan/danhsachtaisan",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\danhsachtaisan\\\\index.vue",
+    "chunkName": "pages/house/taisan/danhsachtaisan/index",
+    "_name": "_273f7a57"
+  },
+  {
+    "name": "house-taisan-dashboard",
+    "path": "/house/taisan/dashboard",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\dashboard.vue",
+    "chunkName": "pages/house/taisan/dashboard",
+    "_name": "_14335c72"
+  },
+  {
+    "name": "house-taisan-disposal-tickets",
+    "path": "/house/taisan/disposal-tickets",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\disposal-tickets.vue",
+    "chunkName": "pages/house/taisan/disposal-tickets",
+    "_name": "_4749d8e8"
+  },
+  {
+    "name": "house-taisan-kiemke",
+    "path": "/house/taisan/kiemke",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\kiemke\\\\index.vue",
+    "chunkName": "pages/house/taisan/kiemke/index",
+    "_name": "_0dfce5a5"
+  },
+  {
+    "name": "house-taisan-nhat-ky-nhap-kho",
+    "path": "/house/taisan/nhat-ky-nhap-kho",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\nhat-ky-nhap-kho.vue",
+    "chunkName": "pages/house/taisan/nhat-ky-nhap-kho",
+    "_name": "_5927e68a"
+  },
+  {
+    "name": "house-taisan-report",
+    "path": "/house/taisan/report",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\report\\\\index.vue",
+    "chunkName": "pages/house/taisan/report/index",
+    "_name": "_55818251"
+  },
+  {
     "name": "ketoan-hotrokythuat-lichsu",
     "path": "/ketoan/hotrokythuat/lichsu",
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\ketoan\\\\hotrokythuat\\\\lichsu.vue",
@@ -348,5 +537,110 @@
     "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\baove\\\\taisan\\\\report\\\\xuatnhapton.old.vue",
     "chunkName": "pages/baove/taisan/report/xuatnhapton.old",
     "_name": "_32618993"
+  },
+  {
+    "name": "bep-taisan-report-catalog",
+    "path": "/bep/taisan/report/catalog",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\report\\\\catalog.vue",
+    "chunkName": "pages/bep/taisan/report/catalog",
+    "_name": "_6b8601cb"
+  },
+  {
+    "name": "bep-taisan-report-index1",
+    "path": "/bep/taisan/report/index1",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\report\\\\index1.vue",
+    "chunkName": "pages/bep/taisan/report/index1",
+    "_name": "_50513ddd"
+  },
+  {
+    "name": "bep-taisan-report-index2",
+    "path": "/bep/taisan/report/index2",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\report\\\\index2.vue",
+    "chunkName": "pages/bep/taisan/report/index2",
+    "_name": "_505f555e"
+  },
+  {
+    "name": "bep-taisan-report-xuatnhapton",
+    "path": "/bep/taisan/report/xuatnhapton",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\report\\\\xuatnhapton.vue",
+    "chunkName": "pages/bep/taisan/report/xuatnhapton",
+    "_name": "_e94cb0e8"
+  },
+  {
+    "name": "bep-taisan-report-xuatnhapton.old",
+    "path": "/bep/taisan/report/xuatnhapton.old",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\bep\\\\taisan\\\\report\\\\xuatnhapton.old.vue",
+    "chunkName": "pages/bep/taisan/report/xuatnhapton.old",
+    "_name": "_23773f76"
+  },
+  {
+    "name": "fandb-taisan-report-catalog",
+    "path": "/fandb/taisan/report/catalog",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\report\\\\catalog.vue",
+    "chunkName": "pages/fandb/taisan/report/catalog",
+    "_name": "_5cfb1247"
+  },
+  {
+    "name": "fandb-taisan-report-index1",
+    "path": "/fandb/taisan/report/index1",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\report\\\\index1.vue",
+    "chunkName": "pages/fandb/taisan/report/index1",
+    "_name": "_580ba43e"
+  },
+  {
+    "name": "fandb-taisan-report-index2",
+    "path": "/fandb/taisan/report/index2",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\report\\\\index2.vue",
+    "chunkName": "pages/fandb/taisan/report/index2",
+    "_name": "_57ef753c"
+  },
+  {
+    "name": "fandb-taisan-report-xuatnhapton",
+    "path": "/fandb/taisan/report/xuatnhapton",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\report\\\\xuatnhapton.vue",
+    "chunkName": "pages/fandb/taisan/report/xuatnhapton",
+    "_name": "_bacbcbf0"
+  },
+  {
+    "name": "fandb-taisan-report-xuatnhapton.old",
+    "path": "/fandb/taisan/report/xuatnhapton.old",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\fandb\\\\taisan\\\\report\\\\xuatnhapton.old.vue",
+    "chunkName": "pages/fandb/taisan/report/xuatnhapton.old",
+    "_name": "_9a61967e"
+  },
+  {
+    "name": "house-taisan-report-catalog",
+    "path": "/house/taisan/report/catalog",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\report\\\\catalog.vue",
+    "chunkName": "pages/house/taisan/report/catalog",
+    "_name": "_a3fb3f50"
+  },
+  {
+    "name": "house-taisan-report-index1",
+    "path": "/house/taisan/report/index1",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\report\\\\index1.vue",
+    "chunkName": "pages/house/taisan/report/index1",
+    "_name": "_5ab859b0"
+  },
+  {
+    "name": "house-taisan-report-index2",
+    "path": "/house/taisan/report/index2",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\report\\\\index2.vue",
+    "chunkName": "pages/house/taisan/report/index2",
+    "_name": "_5ac67131"
+  },
+  {
+    "name": "house-taisan-report-xuatnhapton",
+    "path": "/house/taisan/report/xuatnhapton",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\report\\\\xuatnhapton.vue",
+    "chunkName": "pages/house/taisan/report/xuatnhapton",
+    "_name": "_6439f799"
+  },
+  {
+    "name": "house-taisan-report-xuatnhapton.old",
+    "path": "/house/taisan/report/xuatnhapton.old",
+    "component": "D:\\\\NguyenDuyTan\\\\Nodejs\\\\NuxtJS\\\\frondend01\\\\pages\\\\house\\\\taisan\\\\report\\\\xuatnhapton.old.vue",
+    "chunkName": "pages/house/taisan/report/xuatnhapton.old",
+    "_name": "_81983c5c"
   }
 ]
